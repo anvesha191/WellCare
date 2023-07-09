@@ -1,2 +1,2 @@
-# pharmeds
-group project which is an health related e-commerce website
+# WellCare
+group project which is a health related e-commerce application
